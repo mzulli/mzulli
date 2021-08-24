@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mzulli
-- 👀 I'm interested in music, leftist politics
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I'm interested in music, leftist politics, training my dog :)
+- 🌱 I’m currently learning JavaScript and have dabbled in Python, Ruby, Java and C++
+- 💞️ I’m looking to collaborate on open source projects, music apps, lefty stuff
 - 📫 Contact me via [this form](https://www.mzulli.com/?page_id=266)
 
 <!---
